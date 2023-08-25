@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Mochilas",
+        "description": "Excelente calidad, tela reforzada, varios colores",
+        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692897829/Rincon%20de%20luz/Mochilas_vieqh3.jpg",
+        "address": "Echeverria 560",
+        "city": "La Carlota",
+        "genre": "Accesorios"
+    },
+    {
+        "name": "Carteras",
+        "description": "Excelente calidad, tela reforzada, varios colores",
+        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692897829/Rincon%20de%20luz/billeteras_mnn3go.jpg",
+        "address": "Echeverria 560",
+        "city": "La Carlota",
+        "genre": "Accesorios"
+    }
+    
+]
