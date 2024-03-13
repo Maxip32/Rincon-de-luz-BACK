@@ -32,7 +32,40 @@
     {
         "name": "Varios"
     },
+
     {
         "name": "Bijouteri"
+    },
+
+    {
+        "name": "Mochilas"
+    },
+
+    {
+        "name": "Esctirura"
+    },
+
+    {
+        "name": "Carpetas"
+    },
+
+    {
+        "name": "Cuadernos"
+    },
+
+    {
+        "name": "Geometria"
+    },
+
+    {
+        "name": "Vasos y Tazas"
+    },
+
+    {
+        "name": "Marroquineria"
+    },
+
+    {
+        "name": "Cartucheras"
     }
 ]

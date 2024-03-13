@@ -1,123 +1,108 @@
 [
-    {
-        "name": "Mochilas",
-        "description": "Excelente calidad, tela reforzada, varios colores",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692897829/Rincon%20de%20luz/Mochilas_vieqh3.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
-        "genre": "Accesorios"
-    },
-    {
-        "name": "Carteras",
-        "description": "Excelente calidad, tela reforzada, varios colores",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692897829/Rincon%20de%20luz/billeteras_mnn3go.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
-        "genre": "Accesorios"
-    },
+    
     {
         "name": "Jarron Blanco",
         "description": "Jarron, Blanco de tamaño grande, muy buena calidad, excelente para oficinas, living, comedor y ese lugar de tu casa donde necesitas que tus visitas lo puedan apreciar, lleva armonia a tu hogar y deslumbra a tus invitados ",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982713/Rincon%20de%20luz/jarron_grande_blanco_lzqdnk.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
+        "quotas": "4",
+        "price": "100",
         "genre": "Decoracion"
     },
     {
         "name": "Jarron anaranjado",
         "description": "Excelente calidad, fabricado con un material resistente y un color agradable a la vista que trae paz y armonia a tu hogar excelente tamaño para ubicarlo en donde mas te quede comodo, dale ese toque armonioso a tu lugar favorito",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982714/Rincon%20de%20luz/jarron_grande_naranja_znn9ls.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
+        "quotas": "4",
+        "price": "100",
         "genre": "Decoracion"
     },
     {
         "name": "Jarron blanco y negro",
         "description": "Una llamativa decoracion, para tu espacio favorito de tu hogar, oficina, sala de lectura y donde prefieras lucir este hermoso jarron con lineas blancas y negras, que da un estilo unico y reconfortable.",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982713/Rincon%20de%20luz/jarron_grande_blanco_y_negro_gqiqus.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
+        "quotas": "4",
+        "price": "100",
         "genre": "Decoracion"
     },
     {
         "name": "Carbon defumador",
         "description": "Carbon defumador, fabricado con hierbas naturales que traeran limpieza a tu hogar, limpiando malas energias, y dejando un agradable perfume",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982713/Rincon%20de%20luz/Carbones_defhumador_xbhnnh.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
+        "quotas": "4",
+        "price": "100",
         "genre": "Sahumerios"
     },
     {
         "name": "Carbones activados",
         "description": "Carbones activados, 7 elementos, limpia tu hogar de malas energias, envidia y atrae la paz y la armonia nuevamente",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982713/Rincon%20de%20luz/carbones_activados_abcqwz.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
+        "quotas": "4",
+        "price": "100",
         "genre": "Sahumerios"
     },
     {
         "name": "Estatuilla Negrita",
         "description": "Estatuilla, muy decorativa agradable a la vista como un hermoso accesorio decorativo para tu hogar, fabricada de yeso y pintada a mano",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982713/Rincon%20de%20luz/estatuilla_negrita_lkqejk.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
-        "genre": "Accesorios"
+        "quotas": "4",
+        "price": "100",
+        "genre": "Decoracion"
     },
     {
         "name": "Estatuilla Budas",
         "description": "Tres budas, sentados que traeran armonia a tu hogar, tambien puedes usarlo como sahumador, colocando un carbon activado en el recipiente ya incorporado en la estatuilla excelente opcion como decoracion.",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982713/Rincon%20de%20luz/estatuillas_buda_ctlbuk.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
-        "genre": "Sahumadores"
+        "quotas": "4",
+        "price": "100",
+        "genre": "Decoracion"
     },
     {
         "name": "Estatuilla negrita",
         "description": "Negrita, acompañada de su pequeño hijo, reforzando el amor de una madre por su pequeño, trayendo armonia a tu hogar y dejando una agradable vista como una hermosa decoracion",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982714/Rincon%20de%20luz/negrita_con_jarron_sv8j7z.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
-        "genre": "Accesorios"
+        "quotas": "4",
+        "price": "100",
+        "genre": "Decoracion"
     },
     {
         "name": "Lamparas de sal",
         "description": "Pequeñas lamparas de sal, electricas y de muy buena calidad, puedes utilizar escencias aromatizantes, solo unas pequeñas gotas sobre las piedras de sal, perfumaran de una manera agradable y sutil al olfato todos tus ambientes favoritos",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982714/Rincon%20de%20luz/lampara_de_sal_peque%C3%B1a_g7ddkh.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
-        "genre": "Hornitos"
+        "quotas": "4",
+        "price": "100",
+        "genre": "Decoracion"
     },
     {
         "name": "Perlas",
         "description": "Perlas, aromaticas que mantendran un hermoso permufe y sensacion de limpieza y armonia en tu hogar",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982714/Rincon%20de%20luz/Perlas_aromaticas_rsnxyq.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
-        "genre": "Varios"
+        "quotas": "4",
+        "price": "100",
+        "genre": "Perfumeria"
     },
     {
         "name": "Velones",
         "description": "Velones 7 dias, diferentes tamaños y colores, 100% parafina, excelente calidad y duracion",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982715/Rincon%20de%20luz/Velones_varios_tpb7ub.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
+        "quotas": "4",
+        "price": "100",
         "genre": "Velas"
     },
     {
         "name": "Velas variadas",
         "description": "Velas, variadas a eleccion 100% parafina varios tamaños y colores",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982715/Rincon%20de%20luz/Velas_Varias_vpnz4d.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
+        "quotas": "4",
+        "price": "100",
         "genre": "Velas"
     },
     {
         "name": "Vasos termicos",
         "description": "Vasos termicos diferentes tamaños y colores, con o sin dibujos, excelente para regalos, apto para uso en niños, tapa con cierre de seguridad y muy buena calidad, extra reforzados",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982715/Rincon%20de%20luz/vasos_termicos_variados_wuckjl.jpg",
-        "address": "Echeverria 560",
-        "city": "La Carlota",
-        "genre": "Regaleria"
+        "quotas": "4",
+        "price": "100",
+        "genre": "Vasos y Tazas"
     }
     
 ]

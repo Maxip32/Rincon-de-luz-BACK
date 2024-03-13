@@ -1,4 +1,4 @@
-const { Event, Artist, Genre, City } = require('../../db.js');
+const { Event,Genre } = require('../../db.js');
 const { filterAllEvents } = require('../../handlers/filterEvents/filterAllEvents');
 
 const { Op } = require("sequelize");
@@ -107,10 +107,14 @@ const createEvent = async (req, res) => {
     const {
         name,
         description,
+       
+        price,
+        quotas,
+        
         genre, // El campo debe ser 'genre', no 'genres'
         image,
         city,
-        address,
+       
     } = req.body;
 
     try {
@@ -124,15 +128,13 @@ const createEvent = async (req, res) => {
             });
         }
 
-       
+        
 
         const genresDb = await Genre.findAll({
             where: { name: genre }, // Usar 'genre' directamente sin map
         });
 
-        let cityDb = await City.findOne({
-            where: { name: city },
-        });
+        
 
         if (!genresDb || genresDb.length === 0) {
             return res.status(400).json({
@@ -140,27 +142,22 @@ const createEvent = async (req, res) => {
             });
         }
 
-        // if (!artist) {
-        //     return res.status(404).json({
-        //         msg: 'No se encontro artista con ese nombre',
-        //     });
-        // }
         
-        if (!cityDb) {
-            cityDb = await City.create({ name: city });
-        }
+        
+        
 
         const event = await Event.create({
             name,
             description,
             
+            price,
+            quotas,
             genre,
             image,
-            address,
-            city,
+            
         });
 
-        
+       
         await event.addGenres(genresDb); // Asegúrate de que la relación se llame 'addGenres'
 
         res.status(201).json({
@@ -177,7 +174,7 @@ const createEvent = async (req, res) => {
     }
 
 
-   
+    
 
   }
 
@@ -254,7 +251,7 @@ const deleteEvent =async (req, res = response) => {
 
   const updateEventdatos = async (req, res = response) => {
     const { id } = req.params;
-    const { name, description, image, address, city, genre } = req.body;
+    const { name, description,price, quotas, image,genre } = req.body;
   
     try {
       const event = await Event.findByPk(id);
@@ -282,21 +279,21 @@ const deleteEvent =async (req, res = response) => {
       // if (end ) {
       //   event.end = end;
       // }
-      // if (price) {
-      //   event.price = price;
-      // }
-      // if (quotas) {
-      //   event.quotas = quotas;
-      // }
+      if (price) {
+        event.price = price;
+      }
+      if (quotas) {
+        event.quotas = quotas;
+      }
       if (image) {
         event.image = image;
       }
-      if (address) {
-        event.address = address;
-      }
-      if (city) {
-        event.city = city;
-      }
+      // if (address) {
+      //   event.address = address;
+      // }
+      // if (city) {
+      //   event.city = city;
+      // }
       // if (time) {
       //   event.time = time;
       // }
