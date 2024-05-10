@@ -1,108 +1,870 @@
 [
-    
-    {
-        "name": "Jarron Blanco",
-        "description": "Jarron, Blanco de tamaño grande, muy buena calidad, excelente para oficinas, living, comedor y ese lugar de tu casa donde necesitas que tus visitas lo puedan apreciar, lleva armonia a tu hogar y deslumbra a tus invitados ",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982713/Rincon%20de%20luz/jarron_grande_blanco_lzqdnk.jpg",
-        "quotas": "4",
-        "price": "100",
-        "genre": "Decoracion"
-    },
-    {
-        "name": "Jarron anaranjado",
-        "description": "Excelente calidad, fabricado con un material resistente y un color agradable a la vista que trae paz y armonia a tu hogar excelente tamaño para ubicarlo en donde mas te quede comodo, dale ese toque armonioso a tu lugar favorito",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982714/Rincon%20de%20luz/jarron_grande_naranja_znn9ls.jpg",
-        "quotas": "4",
-        "price": "100",
-        "genre": "Decoracion"
-    },
-    {
-        "name": "Jarron blanco y negro",
-        "description": "Una llamativa decoracion, para tu espacio favorito de tu hogar, oficina, sala de lectura y donde prefieras lucir este hermoso jarron con lineas blancas y negras, que da un estilo unico y reconfortable.",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982713/Rincon%20de%20luz/jarron_grande_blanco_y_negro_gqiqus.jpg",
-        "quotas": "4",
-        "price": "100",
-        "genre": "Decoracion"
-    },
-    {
-        "name": "Carbon defumador",
-        "description": "Carbon defumador, fabricado con hierbas naturales que traeran limpieza a tu hogar, limpiando malas energias, y dejando un agradable perfume",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982713/Rincon%20de%20luz/Carbones_defhumador_xbhnnh.jpg",
-        "quotas": "4",
-        "price": "100",
-        "genre": "Sahumerios"
-    },
-    {
-        "name": "Carbones activados",
-        "description": "Carbones activados, 7 elementos, limpia tu hogar de malas energias, envidia y atrae la paz y la armonia nuevamente",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982713/Rincon%20de%20luz/carbones_activados_abcqwz.jpg",
-        "quotas": "4",
-        "price": "100",
-        "genre": "Sahumerios"
-    },
-    {
-        "name": "Estatuilla Negrita",
-        "description": "Estatuilla, muy decorativa agradable a la vista como un hermoso accesorio decorativo para tu hogar, fabricada de yeso y pintada a mano",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982713/Rincon%20de%20luz/estatuilla_negrita_lkqejk.jpg",
-        "quotas": "4",
-        "price": "100",
-        "genre": "Decoracion"
-    },
-    {
-        "name": "Estatuilla Budas",
-        "description": "Tres budas, sentados que traeran armonia a tu hogar, tambien puedes usarlo como sahumador, colocando un carbon activado en el recipiente ya incorporado en la estatuilla excelente opcion como decoracion.",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982713/Rincon%20de%20luz/estatuillas_buda_ctlbuk.jpg",
-        "quotas": "4",
-        "price": "100",
-        "genre": "Decoracion"
-    },
-    {
-        "name": "Estatuilla negrita",
-        "description": "Negrita, acompañada de su pequeño hijo, reforzando el amor de una madre por su pequeño, trayendo armonia a tu hogar y dejando una agradable vista como una hermosa decoracion",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982714/Rincon%20de%20luz/negrita_con_jarron_sv8j7z.jpg",
-        "quotas": "4",
-        "price": "100",
-        "genre": "Decoracion"
-    },
-    {
-        "name": "Lamparas de sal",
-        "description": "Pequeñas lamparas de sal, electricas y de muy buena calidad, puedes utilizar escencias aromatizantes, solo unas pequeñas gotas sobre las piedras de sal, perfumaran de una manera agradable y sutil al olfato todos tus ambientes favoritos",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982714/Rincon%20de%20luz/lampara_de_sal_peque%C3%B1a_g7ddkh.jpg",
-        "quotas": "4",
-        "price": "100",
-        "genre": "Decoracion"
-    },
-    {
-        "name": "Perlas",
-        "description": "Perlas, aromaticas que mantendran un hermoso permufe y sensacion de limpieza y armonia en tu hogar",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982714/Rincon%20de%20luz/Perlas_aromaticas_rsnxyq.jpg",
-        "quotas": "4",
-        "price": "100",
-        "genre": "Perfumeria"
-    },
-    {
-        "name": "Velones",
-        "description": "Velones 7 dias, diferentes tamaños y colores, 100% parafina, excelente calidad y duracion",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982715/Rincon%20de%20luz/Velones_varios_tpb7ub.jpg",
-        "quotas": "4",
-        "price": "100",
-        "genre": "Velas"
-    },
-    {
-        "name": "Velas variadas",
-        "description": "Velas, variadas a eleccion 100% parafina varios tamaños y colores",
-        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982715/Rincon%20de%20luz/Velas_Varias_vpnz4d.jpg",
-        "quotas": "4",
-        "price": "100",
-        "genre": "Velas"
-    },
     {
         "name": "Vasos termicos",
         "description": "Vasos termicos diferentes tamaños y colores, con o sin dibujos, excelente para regalos, apto para uso en niños, tapa con cierre de seguridad y muy buena calidad, extra reforzados",
         "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982715/Rincon%20de%20luz/vasos_termicos_variados_wuckjl.jpg",
-        "quotas": "4",
-        "price": "100",
+        "quotas": 4,
+        "price": 100,
         "genre": "Vasos y Tazas"
-    }
+      },
+     
+      {
+        "name": "Lamparas de sal",
+        "description": "Pequeñas lamparas de sal, electricas y de muy buena calidad, puedes utilizar escencias aromatizantes, solo unas pequeñas gotas sobre las piedras de sal, perfumaran de una manera agradable y sutil al olfato todos tus ambientes favoritos",
+        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982714/Rincon%20de%20luz/lampara_de_sal_peque%C3%B1a_g7ddkh.jpg",
+        "quotas": 4,
+        "price": 6000,
+        "genre": "Decoracion"
+      },
+      
+     
+      {
+        "name": "mochila azul marino 17 Godpack",
+        "description": "mochila espalda 17 pulgadas, azul marino godpack",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1708955062/images/pdcqrzjbl4kzky30m6th.jpg",
+        "quotas": 1,
+        "price": 5380,
+        "genre": "Accesorios"
+      },
+      {
+        "name": "Mapa politico argentina",
+        "description": "Mapa carta politico Argentina, marca triunfante,  precio por unidad",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709659287/images/vxbiauwg0n50eao0sepg.jpg",
+        "quotas": 40,
+        "price": 54,
+        "genre": "Accesorios"
+      },
+      {
+        "name": "Cartuchera lisa color azul",
+        "description": "Cartuchera doble cierre, lisa color azul",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709659902/images/c4rbmdlraxrpgjxtrooa.jpg",
+        "quotas": 2,
+        "price": 1198,
+        "genre": "Cartucheras"
+      },
+      {
+        "name": "Cartuchera 1 compartimiento plastica, azul",
+        "description": "Cartuchera 1 compartimiento, Plastica con tapita",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709660456/images/tus6arpuyklluwbxqnbz.jpg",
+        "quotas": 1,
+        "price": 438,
+        "genre": "Cartucheras"
+      },
+      {
+        "name": "Taza plastica Boca o River",
+        "description": "tazas plasticas de boca o river reforzadas para jardin",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709661080/images/ywvxdwbyzkqltkfqsbb5.jpg",
+        "quotas": 6,
+        "price": 1186,
+        "genre": "Vasos y Tazas"
+      },
+      {
+        "name": "Mochila  trendy, Dino",
+        "description": "Mochila Trendy Dinosaurio 3D, 13 Pulgadas",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709661425/images/iprhuziqgzjipjvlwwut.jpg",
+        "quotas": 1,
+        "price": 10358,
+        "genre": "Mochilas"
+      },
+      {
+        "name": "Mochila Gamer Clubmode",
+        "description": "Mochila, Gamer marca clubmode 17 pulgadas",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709661566/images/ithkhntabzacaxdl6f48.jpg",
+        "quotas": 1,
+        "price": 5480,
+        "genre": "Mochilas"
+      },
+      {
+        "name": "Mapa politico cordoba",
+        "description": "Mapa carta politico Cordoba, marca triunfante,  precio por unidad",
+        "image": "https://distribuidorlacolo.com.ar/wp-content/uploads/2022/11/1848.jpg",
+        "quotas": 40,
+        "price": 54,
+        "genre": "Accesorios"
+      },
+      {
+        "name": "Planisferio politico",
+        "description": "Mapa carta politico Planisferio, marca triunfante,  precio por unidad",
+        "image": "https://sdbe.com.ar/wp-content/uploads/2023/04/mapa-planisterio-n5.png",
+        "quotas": 40,
+        "price": 54,
+        "genre": "Accesorios"
+      },
+      {
+        "name": "Mochila Aero focus, Filgo",
+        "description": "Mochilas aero focus, marca filgo azul o negra de 16 pulgadas",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709660971/images/z8zmhokgycwoy0vtqh0i.jpg",
+        "quotas": 4,
+        "price": 5980,
+        "genre": "Mochilas"
+      },
+      {
+        "name": "Mochila espalda Animalitos",
+        "description": "Mochila espalda 12 pulgadas plush animalitos, preescolar o jardin",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709661192/images/o3mlrqzlczfsrdonvwme.jpg",
+        "quotas": 2,
+        "price": 6538,
+        "genre": "Mochilas"
+      },
+      {
+        "name": "Cartuchera 1 piso Hadas",
+        "description": "Cartuchera un piso Hadas color rosa",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709660144/images/vkc16wcwtystv8awwksq.jpg",
+        "quotas": 1,
+        "price": 890,
+        "genre": "Cartucheras"
+      },
+      {
+        "name": "Mochila espalda Klub Mode",
+        "description": "Mochila espalda Klub Mode, lisa , 17 pulgadas, varios colores, rosa, azul, y negra",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709662449/images/yjng7dmnrdpcnivaysad.jpg",
+        "quotas": 6,
+        "price": 3980,
+        "genre": "Mochilas"
+      },
+      {
+        "name": "Estuche  plastico river, autos con boton",
+        "description": "Estuche  plastico para lapices y lapiceras river, o autos con boton ",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709662696/images/mvngbt2weoc1ajhgoh9o.jpg",
+        "quotas": 4,
+        "price": 180,
+        "genre": "Cartucheras"
+      },
+      {
+        "name": "Papel Crepe varios colores",
+        "description": "Papel crepe varios colores venta por unidad,  precio por pack de 10 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709662935/images/cdabuaojspphfpynryix.jpg",
+        "quotas": 50,
+        "price": 3980,
+        "genre": "Varios"
+      },
+      {
+        "name": "Carpetas tamaño carta varias",
+        "description": "Carpetas tamaño carta varios modelos, tapa dura",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709665284/images/pnax2jypqahn5hz9ggf1.jpg",
+        "quotas": 9,
+        "price": 2948,
+        "genre": "Carpetas"
+      },
+      {
+        "name": "Escuadra pizzini",
+        "description": "Escuadra pizzini, con transportador incluido",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709672341/images/aieuhwf9tiywbprrsvbd.jpg",
+        "quotas": 10,
+        "price": 328,
+        "genre": "Geometria"
+      },
+      {
+        "name": "Reglas 30cm Pizzini",
+        "description": "Reglas 30cm Pizzini, precio por unidad",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709672489/images/yoaqxq0nkyntyzhy4aga.jpg",
+        "quotas": 10,
+        "price": 286,
+        "genre": "Geometria"
+      },
+      {
+        "name": "Carpeta oficio con elastico",
+        "description": "Carpeta con elasticos 3 solapas varios colores tamaño oficio",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709672732/images/gcv2kmpq1jwa8dmh913g.jpg",
+        "quotas": 10,
+        "price": 1088,
+        "genre": "Carpetas"
+      },
+      {
+        "name": "Acuarela 8 colores",
+        "description": "Acuarela 8 colores con pincel",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709672906/images/pumm3i3dggwaz2b26cki.jpg",
+        "quotas": 9,
+        "price": 878,
+        "genre": "Varios"
+      },
+      {
+        "name": "Trincheta plastica",
+        "description": "Trincheta plastica, varios colores, 18mm",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709673041/images/gmmpyey88raejpjuuiuj.jpg",
+        "quotas": 12,
+        "price": 269,
+        "genre": "Varios"
+      },
+      {
+        "name": "Tiza Blanca",
+        "description": "Tiza blanca precio por unidad L.E.A",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709673312/images/mrdumnyfsob2icfauul9.jpg",
+        "quotas": 144,
+        "price": 19,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Tiza de colores",
+        "description": "Tiza de varios colores precio por unidad L.E.A",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709673419/images/ekh8wknyqmf7x5lfhszb.jpg",
+        "quotas": 144,
+        "price": 28,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Temperas 8cc",
+        "description": "Temperas surtidas Tintoretto, caja por 10 unidades 8cc",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709673706/images/czqmo8ieuckzwtchqsbp.jpg",
+        "quotas": 10,
+        "price": 1253,
+        "genre": "Varios"
+      },
+      {
+        "name": "Pincel escolar N2",
+        "description": "Pincel escolar N2 Olami , pelo de pony x12 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709673936/images/lsloh1bi3mhz0z8kgyfx.jpg",
+        "quotas": 12,
+        "price": 2134,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Pincel escolar N0",
+        "description": "Pincel escolar N0 Pelo de pony, Olami precio x12 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709674014/images/zbxbjptmsq3psuji0vbe.jpg",
+        "quotas": 12,
+        "price": 2038,
+        "genre": "Varios"
+      },
+      {
+        "name": "Cinta Adhesiva",
+        "description": "Cinta Adhesiva STIKO strap, 12mmx30mtrs",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709674571/images/abk7jdsl2qwevuw7mgos.jpg",
+        "quotas": 11,
+        "price": 575,
+        "genre": "Varios"
+      },
+      {
+        "name": "Set de pinceles ",
+        "description": "Set de pinceles  sinteticos chatos, blister",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709676130/images/kjvgezxpoiuzv6kilptq.jpg",
+        "quotas": 2,
+        "price": 500,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Plastilina pancitos",
+        "description": "Plastilina x24 unidades no toxico, Tintoretto pancitos, surtidas",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709676354/images/wymbw9fcpbdtgv0hkcjg.jpg",
+        "quotas": 24,
+        "price": 100,
+        "genre": "Accesorios"
+      },
+      {
+        "name": "Folio luma oficio",
+        "description": "Folio Luma oficio,precio x10 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709663356/images/jdnlre1xbm7kjz55ac2h.jpg",
+        "quotas": 2,
+        "price": 1318,
+        "genre": "Varios"
+      },
+      {
+        "name": "Folio A4 marca Luma",
+        "description": "Folio A4 marca Luma,  precio x100 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709663263/images/r1sitaenlyy5iboxkhrp.jpg",
+        "quotas": 100,
+        "price": 10000,
+        "genre": "Varios"
+      },
+      {
+        "name": "Papel de forrar araña",
+        "description": "varios colores precio por pack de 20 unidades cualquier color menos el celeste",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709663825/images/negbvqnwf5f5xhr88rxg.jpg",
+        "quotas": 80,
+        "price": 13056,
+        "genre": "Varios"
+      },
+      {
+        "name": "Papel de forrar araña pastel",
+        "description": "Papel de forrar araña color celeste precio por pack de 20 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709664012/images/r8kpsx1abh9xpzw1vngj.jpg",
+        "quotas": 20,
+        "price": 13056,
+        "genre": "Varios"
+      },
+      {
+        "name": "Cartulinas Colores",
+        "description": "Cartulina varios colores precio por pack de 20 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709664467/images/uesefjtublgjmwoipqp5.jpg",
+        "quotas": 120,
+        "price": 6360,
+        "genre": "Varios"
+      },
+      {
+        "name": "Cartulina blanca",
+        "description": "Cartulina blanca precio por pack de 20 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709664203/images/igqt1tkgwjdtdpidnrnp.jpg",
+        "quotas": 20,
+        "price": 5160,
+        "genre": "Varios"
+      },
+      {
+        "name": "Afiches colores surtidos",
+        "description": "Afiches colores varios precio por pack de 20 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709664710/images/ywdosbbrxrtxcmzg5vha.jpg",
+        "quotas": 180,
+        "price": 10456,
+        "genre": "Varios"
+      },
+      {
+        "name": "Tabla periodica",
+        "description": "Tabla periodica de los elementos",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709664910/images/xlorl9mix4iupy7wflh6.jpg",
+        "quotas": 2,
+        "price": 700,
+        "genre": "Varios"
+      },
+      {
+        "name": "Ojalillos de papel",
+        "description": "Ojalillos de papel, precio de caja por 56 unidades, tableta de 30 ojalillos",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709674152/images/sqsgxaaxsost8ztim3gw.jpg",
+        "quotas": 56,
+        "price": 3720,
+        "genre": "Varios"
+      },
+      {
+        "name": "Aros metalicos",
+        "description": "Aros metalicos, 40mm, para carpeta, precio por 100 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709674354/images/lujyaksvizfkgv0ojh7r.jpg",
+        "quotas": 100,
+        "price": 9978,
+        "genre": "Accesorios"
+      },
+      {
+        "name": "Clips colors",
+        "description": "Clips varios colores forrados, N3 28mm precio x100 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709674841/images/khyvifhvyghni467z6t6.jpg",
+        "quotas": 10,
+        "price": 365,
+        "genre": "Varios"
+      },
+      {
+        "name": "Papel Glace lustre",
+        "description": "Papel Glace varios colores x10 unidades por sobre",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709675460/images/zt8znibowhtqznygo1nd.jpg",
+        "quotas": 12,
+        "price": 128,
+        "genre": "Varios"
+      },
+      {
+        "name": "Papel Glace Metalizado",
+        "description": "Papel Glace metalizado varios colores x10 unidades por sobre",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709675833/images/frs2gct5egzh91jl7z3v.jpg",
+        "quotas": 10,
+        "price": 200,
+        "genre": "Accesorios"
+      },
+      {
+        "name": "Mochila espalda Azul Keiway",
+        "description": "Mochila espalda Azul Keiway, Filgo de 17 pulgadas",
+        "image": "https://acdn.mitiendanube.com/stores/001/421/947/products/01-d06cb099ad301ad5ab17017855170098-480-0.jpg",
+        "quotas": 1,
+        "price": 10980,
+        "genre": "Mochilas"
+      },
+      {
+        "name": "Adhesivo Vinilico",
+        "description": "Adhesivo Vinilico Sta x30 gr , cola lavable",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709675012/images/hrphwscagddaweafgx7f.png",
+        "quotas": 17,
+        "price": 220,
+        "genre": "Accesorios"
+      },
+      {
+        "name": "Cuaderno 24hj TF",
+        "description": "Cuaderno 24hj, Triunfante rayado",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709676947/images/pdllsouh6mdu0d13uzq9.jpg",
+        "quotas": 20,
+        "price": 848,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Repuesto Dibujo",
+        "description": "Repuesto Dibujo 8 hojas lisas , triunfante carta N3",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709680586/images/ikhkmzvj5ajvcv01negd.jpg",
+        "quotas": 10,
+        "price": 350,
+        "genre": "Varios"
+      },
+      {
+        "name": "Repuesto Dibujo N5",
+        "description": "Repuesto Dibujo N5, tamaño oficio Mil28, 8 hojas blancas",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709680960/images/oio0n8cf1ls9webdzsih.jpg",
+        "quotas": 10,
+        "price": 658,
+        "genre": "Accesorios"
+      },
+      {
+        "name": "Repuesto 48Hojas",
+        "description": "Repuesto 48Hojas, rayado triunfante, formato A4",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709681674/images/rrgmpg2nyic6hqzzclak.jpg",
+        "quotas": 10,
+        "price": 2750,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Repuesto 48Hj Trf",
+        "description": "Repuesto 48Hj Triunfante, rayado N3 carta",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709681892/images/thfc6q4bowjmwu7acp7k.png",
+        "quotas": 10,
+        "price": 1510,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Mochila trendy Unicornio",
+        "description": "Mochila Trendy Unicornio colo blanca y rosa 13 pulgadas",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_804874-MLA74462733802_022024-O.webp",
+        "quotas": 1,
+        "price": 11458,
+        "genre": "Mochilas"
+      },
+      {
+        "name": "Mapa politico America",
+        "description": "Mapa carta politico America marca triunfante,  precio por unidad",
+        "image": "https://pizarrasblancas.com.ar/wp-content/uploads/2023/06/mapa-continente-americano-pol%C2%A1tico-n3-pizarrasblancasmendoza.jpg",
+        "quotas": 40,
+        "price": 54,
+        "genre": "Accesorios"
+      },
+      {
+        "name": "Mochila espalda Bordo Keiway",
+        "description": "Mochila espalda Bordo Keiway Filgo, 17 pulgadas",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709661790/images/lznete03qgltgfcame7e.jpg",
+        "quotas": 1,
+        "price": 10980,
+        "genre": "Mochilas"
+      },
+      {
+        "name": "Folio escolar",
+        "description": "Folio escolar N3 Luma, precio por 100 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709681221/images/hof7acf0dpoy2ksez8nf.png",
+        "quotas": 100,
+        "price": 5598,
+        "genre": "Accesorios"
+      },
+      {
+        "name": "Cuaderno 80hj",
+        "description": "Cuaderno 80hj, rayado america",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709681503/images/qqbtkehubptnfgtsoutm.jpg",
+        "quotas": 10,
+        "price": 2248,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Marcadores blister",
+        "description": "Marcadores blister. punta mediana x10 unidades, filgo 2210",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709682325/images/tukwgx7fkjd8zeyahp6s.jpg",
+        "quotas": 10,
+        "price": 688,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Boligrafos blister",
+        "description": "boligrafos-ezco-pastel-x-10-unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709682576/images/rv96quaep9if5eu3tfmr.jpg",
+        "quotas": 5,
+        "price": 1400,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Marcador al agua",
+        "description": "Marcador al agua, filgo punta mediana 2210 x6 unidades blister",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709682763/images/ubw1hqxpg5jaqdm24ukp.jpg",
+        "quotas": 5,
+        "price": 558,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Compas",
+        "description": "Compas plastico fiddo, x1 unidad blister",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709682905/images/opch4arhir5uzk1mact9.jpg",
+        "quotas": 5,
+        "price": 528,
+        "genre": "Geometria"
+      },
+      {
+        "name": "Transportador",
+        "description": "Transportador Pizzini x1 180x10cm",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709744026/images/mc3ylqajoso5w0znqpaw.jpg",
+        "quotas": 5,
+        "price": 110,
+        "genre": "Geometria"
+      },
+      {
+        "name": "Boligrafo neon",
+        "description": "Boligrafo gel neon, blister x5 unidades marca Ezco",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709744304/images/rckoxwb8dlbvqzyw3hs8.jpg",
+        "quotas": 5,
+        "price": 1348,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Boligrafo azul grip",
+        "description": "Boligrafo azul o negro fast grip retractil 1mm, caja x36 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709744751/images/wudwkww6meyylyxdac1j.jpg",
+        "quotas": 72,
+        "price": 10548,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Resaltador pastel",
+        "description": "Resaltador pastel, ligther fine , caja por 36 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709744974/images/kfirk81wrgrs96le0rgr.jpg",
+        "quotas": 36,
+        "price": 8298,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Portaminas real grip",
+        "description": "Portaminas real grip, varios colores, 0,5mm caja x36 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709745761/images/djfw47p1rfw1tf8ukuho.jpg",
+        "quotas": 36,
+        "price": 12848,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "MARCADOR PERMANENTE",
+        "description": "MARCADOR PERMANENTE 060 PUNTA BISELADA 2-4MM CAJA X12 UNIDADES FILGO - PM060-C12",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709746123/images/k8zlqxv8gwcchsbj5rvy.jpg",
+        "quotas": 48,
+        "price": 4398,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "MARCADOR AL AGUA ",
+        "description": "MARCADOR AL AGUA PINTO 2220 FLUO PUNTA FINA 1.2MM EN BLISTER X6 UNIDADES FILGO - CM2220-E6-FLU",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709746420/images/o090wa4jagunkrupz7uc.jpg",
+        "quotas": 5,
+        "price": 948,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "BOLIGRAFO GEL POP",
+        "description": "BOLIGRAFO GEL POP CLASIC 0.7MM EN BLISTER X4 UNIDADES FILGO - TBF-BL-PHL",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709746790/images/tvmvdgrav5xglf83hwzl.jpg",
+        "quotas": 5,
+        "price": 1528,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "MARCADOR PINTO JUMBO",
+        "description": "MARCADOR AL AGUA PINTO JUMBO PUNTA CONICA 2-7MM CAJA X6 UNIDADES FILGO - CMJ-E6-SUR",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709746901/images/m69jz8aj3co54qvujpuj.jpg",
+        "quotas": 3,
+        "price": 1698,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "BOLIGRAFO BORRAX",
+        "description": "BOLIGRAFO BORRAX SE JUMP AZUL 0.7MM CAJA X12 UNIDADES FILGO - BRXSE7-C12-003JMP",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709747128/images/eo821pberq6m9ykuvnew.jpg",
+        "quotas": 12,
+        "price": 10378,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "BOLIGRAFO STICK 026",
+        "description": "BOLIGRAFO STICK 026 MEDIUM 1MM CAJA X50 UNIDADES FILGO - SK10-C50",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709747314/images/mcu8zzcbklg2cvgljc86.jpg",
+        "quotas": 50,
+        "price": 4598,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "BOLIGRAFO STK SURT",
+        "description": "BOLIGRAFO STICK 026 MEDIUM 1MM EN BLISTER X4 UNIDADES FILGO - SK10-F4",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709747634/images/mpdu1ncdworgkrldfjoc.jpg",
+        "quotas": 10,
+        "price": 658,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "BOLIGRAFO COLORS",
+        "description": "BOLIGRAFO STICK 026 MEDIUM COLORS 1.0MM CAJA X50 UNIDADES FILGO",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709747755/images/ssgytsvtwrjfpk169ajp.jpg",
+        "quotas": 50,
+        "price": 6678,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "GEL POP GLITTER 1MM",
+        "description": "BOLIGRAFO GEL POP GLITTER 1MM EN BLISTER X5 UNIDADES FILGO - GP10-E5-GLI",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709747890/images/non8y1qojuvdynf7b6hu.jpg",
+        "quotas": 5,
+        "price": 1898,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Set Geometria",
+        "description": "Set Geometria, combo set, x4 piezas de 20cm",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709682136/images/dcoq544exif9d6jkgwkd.jpg",
+        "quotas": 4,
+        "price": 403,
+        "genre": "Geometria"
+      },
+      {
+        "name": "Adhesivo 100gr",
+        "description": "Adhesivo vinilico, cola lavable Sta de 100gr",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709745487/images/wzzygcxewdxikqgculwt.jpg",
+        "quotas": 12,
+        "price": 768,
+        "genre": "Varios"
+      },
+      {
+        "name": "Cuaderno 24hj",
+        "description": "Cuaderno 24hj, America rayado",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709676673/images/y4s52st1uwhxaxtsvryv.jpg",
+        "quotas": 8,
+        "price": 518,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "MARCADOR AL AGUA 052",
+        "description": "MARCADOR AL AGUA 052 PUNTA REDONDA 1-2MM CAJA X12 UNIDADES FILGO - AM052-C12",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709747999/images/oa0ark224oyrlagemrqz.jpg",
+        "quotas": 48,
+        "price": 4998,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "CRAYON PINTO X6",
+        "description": "CRAYON PINTO DE CERA CAJA X6 UNIDADES FILGO - WXC-E6-SUR",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709748133/images/lnurt1lvf6v7kbgam0eg.jpg",
+        "quotas": 5,
+        "price": 358,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "TIJERA ETERNA ",
+        "description": "TIJERA ESCOLAR ETERNA ZURDOS 17CM BLISTER X UNIDAD COLORES SURTIDOS EZCO - 560220",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709748307/images/dyyatohyrmjcznwa4g8p.jpg",
+        "quotas": 5,
+        "price": 1098,
+        "genre": "Varios"
+      },
+      {
+        "name": "BOLIGRAFO PASTEL",
+        "description": "BOLIGRAFO PASTEL, X10 UNIDADES BLISTER",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709749413/images/hxrdccggdpnzuew04og6.png",
+        "quotas": 5,
+        "price": 1450,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "CRAYON X12",
+        "description": "CRAYON DE CERA CAJA X12 UNIDADES - 523-3",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709749534/images/xgkaonc18mzuaahntvub.jpg",
+        "quotas": 10,
+        "price": 200,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "MARCADOR,PIZARRA 058",
+        "description": "MARCADOR PARA PIZARRA 058 PUNTA REDONDA 1-2MM EN BLISTER X4 UNIDADES FILGO - WB058-E4-CLA",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709749660/images/iunms8645l0oo1tx4yj5.jpg",
+        "quotas": 3,
+        "price": 2598,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "LAPIZ PINTO MINI",
+        "description": "LAPIZ DE COLOR PINTO MINI CAJA X12 UNIDADES FILGO - PN202-E12-SUR",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709749758/images/cqbqe9bx9gnsqjfbfuh7.jpg",
+        "quotas": 3,
+        "price": 658,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "MINAS DE GRAFITO",
+        "description": "MINAS DE GRAFITO 0.5MM HB CAJA X12 UNIDADES FILGO - PPL5-C12",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709749969/images/oalwtab5t84vhsqmvdxx.jpg",
+        "quotas": 12,
+        "price": 2648,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "MICROFIBRA LINER 038",
+        "description": "MICROFIBRA LINER 038 0.4MM BLISTER X4 UNIDADES FILGO - L38-E4-CLA",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709750048/images/elxe08gjrc8ue6yfpqgs.jpg",
+        "quotas": 5,
+        "price": 1438,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "SACAPUNTA METAL",
+        "description": "SACAPUNTA METAL CURVO CAJA X24 UNIDADES KATANA - 514151",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709750226/images/e2odco1b26yz4v9prj0g.jpg",
+        "quotas": 24,
+        "price": 3578,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "LAPIZ EVOLUTION ",
+        "description": "LAPIZ EVOLUTION HB Nº2 CAJA X12 UNIDADES BIC - 9309489/835232",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709750336/images/gfbrrnsew6wuhpjaunl5.jpg",
+        "quotas": 12,
+        "price": 2598,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "REGLA 20CM",
+        "description": "REGLA 20CM TRANSPARENTE EN BOLSA X12 UNIDADES - 145-2",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709750415/images/av9c33nos4ft4rohifgt.jpg",
+        "quotas": 12,
+        "price": 942,
+        "genre": "Geometria"
+      },
+      {
+        "name": "MARCADOR JUMBO",
+        "description": "MARCADOR AL AGUA PINTO JUMBO PUNTA CONICA 2-7MM CAJA X12 UNIDADES FILGO - CMJ-C12",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709750595/images/xsdg4wv9xmb9yip87tu1.jpg",
+        "quotas": 36,
+        "price": 2998,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "LAPIZ DE,COLOR,LARGO",
+        "description": "LAPIZ DE COLOR PINTO LARGO CAJA X12 UNIDADES FILGO - PN-201-E12-SUR",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709750769/images/xpczvrqekqiyxxiiowhu.jpg",
+        "quotas": 10,
+        "price": 878,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "RESALTADOR MARKER",
+        "description": "RESALTADOR TEXT MARKER FLUO CAJA X12 UNIDADES FILGO",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709751038/images/qzkk6nqdxigujwuv3sys.jpg",
+        "quotas": 48,
+        "price": 4398,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "LAPIZ DE COLOR X24",
+        "description": "LAPIZ DE COLOR PINTO LARGO CAJA X24 UNIDADES FILGO - PN201-E24-SUR",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709751173/images/hb7v3s6pcmdotympzt76.jpg",
+        "quotas": 5,
+        "price": 2158,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "CRAYON CERA X12",
+        "description": "CRAYON CERA PINTO CAJA X12 UNIDADES FILGO - WXC-E12-SUR",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709751392/images/xoc0d1etsw14owgnvzwh.jpg",
+        "quotas": 5,
+        "price": 688,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "GOMA DUO TEK 4021 ",
+        "description": "GOMA DE BORRAR DUO TECNICA TEK 4021 X36 FILGO - ER4021-D36",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709751517/images/kms9xa6gmx4gzry5fxtl.jpg",
+        "quotas": 36,
+        "price": 7238,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "GOMA B/LAPIZ PINTO",
+        "description": "GOMA DE BORRAR LAPIZ PINTO 3020 CAJA X40 FILGO - ER3020-D40",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709751605/images/d73oxho4hkqjnhbatju2.jpg",
+        "quotas": 40,
+        "price": 4188,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "MICROFIBRA X10 038",
+        "description": "MICROFIBRA LINER 038 0.4MM CAJA X10 UNIDADES FILGO - L38-C10",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709751722/images/uifxshlq5gf2x2a58r4p.jpg",
+        "quotas": 10,
+        "price": 3588,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "RESALTADOR LIGHTER FLUO",
+        "description": "RESALTADOR LIGHTER FINE FLUOR CAJA X12 UNIDADES FILGO ",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709750928/images/fbcmqfrwhnviwfgmcqpu.jpg",
+        "quotas": 48,
+        "price": 2778,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Estatuilla negrita",
+        "description": "Negrita, acompañada de su pequeño hijo, reforzando el amor de una madre por su pequeño, trayendo armonia a tu hogar y dejando una agradable vista como una hermosa decoracion",
+        "image": "https://res.cloudinary.com/dyeknjnsi/image/upload/v1692982714/Rincon%20de%20luz/negrita_con_jarron_sv8j7z.jpg",
+        "quotas": 4,
+        "price": 100,
+        "genre": "Decoracion"
+      },
+      {
+        "name": "Block Rivadavia x48",
+        "description": "Block Rivadavia x48, hojas rayadas",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709821722/images/dbbcel38hol6qpgljlvv.jpg",
+        "quotas": 5,
+        "price": 3379,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Block rivadavia x96",
+        "description": "Block rivadavia x96, N3 repuesto hojas rayadas",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709821914/images/byzfzuqmtgi5rso92rkv.jpg",
+        "quotas": 5,
+        "price": 2990,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Block Rivad, Cuadriculado x24",
+        "description": "Block Rivadavia, Cuadriculado x24 hojas",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709822094/images/iwhrrgc3qe5sfe7ouanb.jpg",
+        "quotas": 4,
+        "price": 1590,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Block cuadriculado x48",
+        "description": "Block rivadavia cuadriculado x48hojas N3",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709822174/images/cepvmwrbmpxz577e26z4.jpg",
+        "quotas": 4,
+        "price": 3379,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Block Rivadavia 480H",
+        "description": "Block Rivadavia 480H, rayadas, N3",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709822300/images/vvcpd7vo5gdoliybksub.jpg",
+        "quotas": 2,
+        "price": 12990,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "Corrector",
+        "description": "Lapiz corrector, filgo caja x24 unidades",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709745890/images/bda0nofg2yl6e733vrrj.jpg",
+        "quotas": 23,
+        "price": 7998,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "TIJERA ESCOLAR 12CM",
+        "description": "TIJERA ESCOLAR PINTO 12CM EN BLISTER X UNIDAD COLORES SURTIDOS FILGO - SCRPINTO-B1-SUR",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709751924/images/usioabjtxwdqxmr0vlj0.jpg",
+        "quotas": 8,
+        "price": 648,
+        "genre": "Accesorios"
+      },
+      {
+        "name": "LAPIZ GRAFITO",
+        "description": "LAPIZ GRAFITO PINTO HB Nº2 CAJA X12 UNIDADES FILGO - PN101-C12-HB",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709751244/images/jhh7ewturcxe6yffm2ak.jpg",
+        "quotas": 22,
+        "price": 848,
+        "genre": "Esctirura"
+      },
+      {
+        "name": "BOLIGRAFO N STICK 026",
+        "description": "BOLIGRAFO STICK 026 MEDIUM 1MM CAJA X50 UNIDADES FILGO - SK10-C50",
+        "image": "http://res.cloudinary.com/dyeknjnsi/image/upload/v1709747424/images/knq447mjfy9rc4o6b4yw.jpg",
+        "quotas": 45,
+        "price": 4598,
+        "genre": "Esctirura"
+      }
     
 ]
